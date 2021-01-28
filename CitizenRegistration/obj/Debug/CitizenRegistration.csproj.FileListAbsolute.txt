@@ -1,0 +1,6 @@
+C:\Users\hanlu\RiderProjects\CitizenRegistration\CitizenRegistration\bin\Debug\CitizenRegistration.exe
+C:\Users\hanlu\RiderProjects\CitizenRegistration\CitizenRegistration\bin\Debug\CitizenRegistration.pdb
+C:\Users\hanlu\RiderProjects\CitizenRegistration\CitizenRegistration\obj\Debug\CitizenRegistration.csprojAssemblyReference.cache
+C:\Users\hanlu\RiderProjects\CitizenRegistration\CitizenRegistration\obj\Debug\CitizenRegistration.csproj.CoreCompileInputs.cache
+C:\Users\hanlu\RiderProjects\CitizenRegistration\CitizenRegistration\obj\Debug\CitizenRegistration.exe
+C:\Users\hanlu\RiderProjects\CitizenRegistration\CitizenRegistration\obj\Debug\CitizenRegistration.pdb
